@@ -29,6 +29,8 @@ See [this article](https://medium.com/@borlov/c9a24f413457) explaining selection
 Start from `Getting started` section if you haven't done any iOS development yet.
 
 ## 🗺 Image version 
+ ![Header image](https://i.redd.it/ix44k24k9ik01.png) 
+
 Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Script/Generated/ROADMAP.png)
 ![Header image](RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
 
